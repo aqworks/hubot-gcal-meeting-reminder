@@ -1,16 +1,16 @@
 {
   "name": "hubot-gcal-meeting-reminder",
   "description": "A hubot script that sends you reminders to Slack of the upcoming meetings you have on GoogleCalendar.",
-  "version": "1.1.24",
+  "version": "1.1.23",
   "author": "Marion Bouguet <marion.bouguet@gmail.com>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-gcal-meeting-reminder.git"
+    "url": "git://github.com/aqworks/hubot-gcal-meeting-reminder.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-gcal-meeting-reminder/issues"
+    "url": "https://github.com/aqworks/hubot-gcal-meeting-reminder/issues"
   },
   "dependencies": {
     "google-auth-library": "^0.9.8",
