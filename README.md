@@ -7,9 +7,7 @@ A hubot script that sends you reminders to Slack of the upcoming meetings you ha
 This package adds 3 commands to hubot:
 
 - `send me meeting reminders` :  the bot enable reminders for you
-
 - `stop sending me meeting reminders` : the bot disable reminders for you
-
 - `who's getting reminders?` : the bot informs you of the list of users who are currently getting reminders.
 
 the commands are optimized to be used as direct message to your bot on Slack.
